@@ -105,7 +105,7 @@ buttons = [
     [
         InlineKeyboardButton(text=f"❄️ᴀʙᴏᴜᴛ❄️", callback_data="meteor_"),
         InlineKeyboardButton(
-            text="Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://github.com/Revenger2901""
+            text="Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://github.com/Revenger2901"
         ),    
     ],
     [
