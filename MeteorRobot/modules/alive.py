@@ -9,7 +9,7 @@ from MeteorRobot.events import register
 from MeteorRobot import telethn as tbot
 
 
-PHOTO = "https://te.legra.ph/file/653cc589cef8ce310a9f2.jpg"
+PHOTO = "https://te.legra.ph/file/c8a24a036d02abca16395.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
