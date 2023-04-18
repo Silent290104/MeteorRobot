@@ -24,7 +24,7 @@
 - This step must be doing because mine link is violates the salesforce acceptable use.
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Revenger2901/MeteorRobot"> <img 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Silent290104/MeteorRobot"> <img 
 src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
 
